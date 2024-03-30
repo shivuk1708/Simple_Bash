@@ -42,7 +42,7 @@ I have handled the signals as following
 4. upon invald command execvp() returns -1 and child process terminated
 
 **Test Case Results**
-[I test these in MacBook shell environment, so File system is different]
+[I tested these in MacBook shell environment, so File system is not silimar to linux]
 1.  
 ```shell
 $ cd /System
